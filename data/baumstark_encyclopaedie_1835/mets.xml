@@ -182,84 +182,84 @@
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0001"
                     GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="URL" xlink:href="page/baumstark_encyclopaedie_1835_0008.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/baumstark_encyclopaedie_1835_0008.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0002"
                     GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="URL" xlink:href="page/baumstark_encyclopaedie_1835_0012.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/baumstark_encyclopaedie_1835_0012.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0003"
                     GROUPID="OCR-D-IMG_0003">
-            <mets:FLocat LOCTYPE="URL" xlink:href="page/baumstark_encyclopaedie_1835_0014.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/baumstark_encyclopaedie_1835_0014.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0004"
                     GROUPID="OCR-D-IMG_0004">
-            <mets:FLocat LOCTYPE="URL" xlink:href="page/baumstark_encyclopaedie_1835_0023.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/baumstark_encyclopaedie_1835_0023.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0005"
                     GROUPID="OCR-D-IMG_0005">
-            <mets:FLocat LOCTYPE="URL" xlink:href="page/baumstark_encyclopaedie_1835_0029.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/baumstark_encyclopaedie_1835_0029.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0006"
                     GROUPID="OCR-D-IMG_0006">
-            <mets:FLocat LOCTYPE="URL" xlink:href="page/baumstark_encyclopaedie_1835_0034.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/baumstark_encyclopaedie_1835_0034.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0007"
                     GROUPID="OCR-D-IMG_0007">
-            <mets:FLocat LOCTYPE="URL" xlink:href="page/baumstark_encyclopaedie_1835_0039.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/baumstark_encyclopaedie_1835_0039.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-PAGE_0008"
                     GROUPID="OCR-D-IMG_0008">
-            <mets:FLocat LOCTYPE="URL" xlink:href="page/baumstark_encyclopaedie_1835_0042.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/baumstark_encyclopaedie_1835_0042.xml"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-GT-SEG-BLOCK">
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0001"
                     GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="URL" xlink:href="page/baumstark_encyclopaedie_1835_0008.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/baumstark_encyclopaedie_1835_0008.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0002"
                     GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="URL" xlink:href="page/baumstark_encyclopaedie_1835_0012.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/baumstark_encyclopaedie_1835_0012.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0003"
                     GROUPID="OCR-D-IMG_0003">
-            <mets:FLocat LOCTYPE="URL" xlink:href="page/baumstark_encyclopaedie_1835_0014.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/baumstark_encyclopaedie_1835_0014.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0004"
                     GROUPID="OCR-D-IMG_0004">
-            <mets:FLocat LOCTYPE="URL" xlink:href="page/baumstark_encyclopaedie_1835_0023.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/baumstark_encyclopaedie_1835_0023.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0005"
                     GROUPID="OCR-D-IMG_0005">
-            <mets:FLocat LOCTYPE="URL" xlink:href="page/baumstark_encyclopaedie_1835_0029.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/baumstark_encyclopaedie_1835_0029.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0006"
                     GROUPID="OCR-D-IMG_0006">
-            <mets:FLocat LOCTYPE="URL" xlink:href="page/baumstark_encyclopaedie_1835_0034.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/baumstark_encyclopaedie_1835_0034.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0007"
                     GROUPID="OCR-D-IMG_0007">
-            <mets:FLocat LOCTYPE="URL" xlink:href="page/baumstark_encyclopaedie_1835_0039.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/baumstark_encyclopaedie_1835_0039.xml"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg"
                     ID="OCR-D-GT-SEG-BLOCK_0008"
                     GROUPID="OCR-D-IMG_0008">
-            <mets:FLocat LOCTYPE="URL" xlink:href="page/baumstark_encyclopaedie_1835_0042.xml"/>
+            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/baumstark_encyclopaedie_1835_0042.xml"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="DEFAULT">
