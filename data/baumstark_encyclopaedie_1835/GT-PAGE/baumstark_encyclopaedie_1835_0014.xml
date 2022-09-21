@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:08:03</Created>
+	<LastChange>2019-02-21T16:28:21</LastChange></Metadata>
+	<Page imageFilename="baumstark_encyclopaedie_1835_0014.jpg" imageWidth="1487" imageHeight="2517" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r0" index="0"/>
+	<RegionRefIndexed regionRef="r7" index="1"/>
+	<RegionRefIndexed regionRef="r9" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="277,204 277,117 167,117 167,204"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="172,1456 172,1457 318,1457 318,1458 463,1458 463,1459 609,1459 609,1460 755,1460 755,1461 900,1461 900,1462 1046,1462 1046,1463 1191,1463 1191,1464 1337,1464 1337,1465 1410,1465 1410,2400 100,2400 100,1456"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="1410,204 1410,416 1192,416 1192,415 756,415 756,414 319,414 319,413 100,413 100,204"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords points="318,415 318,416 755,416 755,417 1191,417 1191,418 1410,418 1410,1463 1338,1463 1338,1462 1192,1462 1192,1461 1047,1461 1047,1460 901,1460 901,1459 756,1459 756,1458 610,1458 610,1457 464,1457 464,1456 319,1456 319,1455 173,1455 173,1454 100,1454 100,415"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>
