@@ -572,8 +572,15 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
    </div>
    <div id="extent">
       <h2>Extent</h2>
-      <p>
-                                In this section they can insert additional information, instructions or notes.
-                            </p>
+      
+<p><b>ToDo</b></p>
+<p>
+
+<ul>
+<li>check the  pcGtsId->solution pc-[name of file without extension and program a xslt-script</li>
+<li>check path imageFilename="../jpg/andreas_fenitschka_1898_0013.jpg"</li>
+</ul>
+
+
    </div>
 </div>
