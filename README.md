@@ -574,7 +574,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
       <h2>Extent</h2>
       
 <p><b>ToDo</b></p>
-<p>
+
 
 <ul>
 <li>check the  pcGtsId->solution pc-[name of file without extension and program a xslt-script</li>
