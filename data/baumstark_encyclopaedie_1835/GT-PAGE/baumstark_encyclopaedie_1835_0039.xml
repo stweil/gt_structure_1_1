@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
 	<Metadata>
 	<Creator>Deutsches Textarchiv</Creator>
 	<Created>2018-03-22T09:08:03</Created>
@@ -19,36 +18,36 @@
 	<TextRegion id="r0" type="page-number">
 	<Coords points="1260,225 1260,105 1146,105 1146,225"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv></TextRegion>
+	<Unicode/></TextEquiv></TextRegion>
 	<TextRegion id="r1" type="heading">
 	<Coords points="1103,339 1103,209 160,209 160,339"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv></TextRegion>
+	<Unicode/></TextEquiv></TextRegion>
 	<TextRegion id="r2" type="heading">
 	<Coords points="6,2205 6,2082 1313,2082 1313,2205"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv></TextRegion>
+	<Unicode/></TextEquiv></TextRegion>
 	<TextRegion id="r3" type="paragraph">
 	<Coords points="16,1589 16,1341 1253,1341 1253,1589"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv></TextRegion>
+	<Unicode/></TextEquiv></TextRegion>
 	<TextRegion id="r4" type="footnote">
 	<Coords points="13,1942 13,1592 1263,1592 1263,1942"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv></TextRegion>
+	<Unicode/></TextEquiv></TextRegion>
 	<TextRegion id="r5" type="footnote">
 	<Coords points="10,1942 10,2069 1266,2069 1266,1942"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv></TextRegion>
+	<Unicode/></TextEquiv></TextRegion>
 	<TextRegion id="r6" type="paragraph">
 	<Coords points="1243,1339 1243,342 14,342 14,1339"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv></TextRegion>
+	<Unicode/></TextEquiv></TextRegion>
 	<TextRegion id="r7" type="paragraph">
 	<Coords points="1314,2319 1314,2213 11,2213 11,2319"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv></TextRegion>
+	<Unicode/></TextEquiv></TextRegion>
 	<TextRegion id="r8" type="signature-mark">
 	<Coords points="42,2321 42,2367 1005,2367 1005,2321"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

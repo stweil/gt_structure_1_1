@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
 	<Metadata>
 	<Creator>Deutsches Textarchiv</Creator>
 	<Created>2018-03-22T08:08:03</Created>
@@ -13,12 +12,12 @@
 	<TextRegion id="r0" type="page-number">
 	<Coords points="140,123 140,213 250,213 250,123"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv></TextRegion>
+	<Unicode/></TextEquiv></TextRegion>
 	<TextRegion id="r3" type="paragraph">
 	<Coords points="1394,216 1394,2231 1372,2231 1372,2232 1328,2232 1328,2233 1284,2233 1284,2234 1240,2234 1240,2235 1196,2235 1196,2236 1152,2236 1152,2237 1109,2237 1109,2238 1065,2238 1065,2239 1021,2239 1021,2240 977,2240 977,2241 933,2241 933,2242 890,2242 890,2243 846,2243 846,2244 802,2244 802,2245 758,2245 758,2246 714,2246 714,2247 670,2247 670,2248 627,2248 627,2249 583,2249 583,2250 539,2250 539,2251 495,2251 495,2252 451,2252 451,2253 408,2253 408,2254 364,2254 364,2255 320,2255 320,2256 276,2256 276,2257 232,2257 232,2258 188,2258 188,2259 167,2259 167,216"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv></TextRegion>
+	<Unicode/></TextEquiv></TextRegion>
 	<TextRegion id="r5" type="paragraph">
 	<Coords points="1394,2233 1394,2387 167,2387 167,2261 189,2261 189,2260 233,2260 233,2259 277,2259 277,2258 321,2258 321,2257 365,2257 365,2256 409,2256 409,2255 452,2255 452,2254 496,2254 496,2253 540,2253 540,2252 584,2252 584,2251 628,2251 628,2250 671,2250 671,2249 715,2249 715,2248 759,2248 759,2247 803,2247 803,2246 847,2246 847,2245 891,2245 891,2244 934,2244 934,2243 978,2243 978,2242 1022,2242 1022,2241 1066,2241 1066,2240 1110,2240 1110,2239 1153,2239 1153,2238 1197,2238 1197,2237 1241,2237 1241,2236 1285,2236 1285,2235 1329,2235 1329,2234 1373,2234 1373,2233"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

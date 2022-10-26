@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
 	<Metadata>
 	<Creator>Deutsches Textarchiv</Creator>
 	<Created>2018-03-22T09:08:03</Created>
@@ -17,32 +16,32 @@
 	<TextRegion id="r0" type="paragraph">
 	<Coords points="1303,2053 1303,872 16,872 16,2053"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv></TextRegion>
+	<Unicode/></TextEquiv></TextRegion>
 	<TextRegion id="r1" type="heading">
 	<Coords points="990,536 990,420 283,420 283,536"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv></TextRegion>
+	<Unicode/></TextEquiv></TextRegion>
 	<TextRegion id="r2" type="heading">
 	<Coords points="1200,710 1200,619 76,619 76,710"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv></TextRegion>
+	<Unicode/></TextEquiv></TextRegion>
 	<TextRegion id="r3" type="heading">
 	<Coords points="1126,855 1126,730 66,730 66,855"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv></TextRegion>
+	<Unicode/></TextEquiv></TextRegion>
 	<TextRegion id="r6" type="paragraph">
 	<Coords points="1273,2303 1273,2193 36,2193 36,2303"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv></TextRegion>
+	<Unicode/></TextEquiv></TextRegion>
 	<TextRegion id="r7" type="signature-mark">
 	<Coords points="1046,2350 1046,2310 106,2310 106,2350"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv></TextRegion>
+	<Unicode/></TextEquiv></TextRegion>
 	<SeparatorRegion id="r8">
 	<Coords points="750,590 750,556 543,556 543,590"/></SeparatorRegion>
 	<TextRegion id="r4" type="heading">
 	<Coords points="580,2066 720,2066 720,2126 1206,2126 1206,2193 103,2193 103,2126 580,2126"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv></TextRegion>
+	<Unicode/></TextEquiv></TextRegion>
 	<SeparatorRegion id="r10">
 	<Coords points="1266,183 1266,100 23,100 23,183"/></SeparatorRegion></Page></PcGts>

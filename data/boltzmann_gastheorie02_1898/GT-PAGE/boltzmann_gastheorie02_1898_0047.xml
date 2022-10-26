@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:09:20</Created>
+	<LastChange>2019-02-26T10:54:38</LastChange></Metadata>
+	<Page imageFilename="boltzmann_gastheorie02_1898_0047.jpg" imageWidth="1490" imageHeight="2367" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="r1" index="2"/>
+	<RegionRefIndexed regionRef="r2" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/>
+	<RegionRefIndexed regionRef="r9" index="5"/>
+	<RegionRefIndexed regionRef="region_6" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="header">
+	<Coords points="52,63 1021,63 1021,140 52,140"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="page-number">
+	<Coords points="1190,78 1309,78 1309,145 1190,145"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<MathsRegion id="region_4">
+	<Coords points="487,421 788,421 788,520 487,520"/></MathsRegion>
+	<GraphicRegion id="region_5">
+	<Coords points="416,1183 839,1200 1302,1193 1302,1913 420,1913"/></GraphicRegion>
+	<TextRegion id="region_6" type="caption">
+	<Coords points="747,1913 926,1913 926,1982 747,1982"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1332,165 1332,166 1331,166 1331,211 1330,211 1330,256 1329,256 1329,301 1328,301 1328,346 1327,346 1327,391 1326,391 1326,436 1325,436 1325,481 1324,481 1324,527 1323,527 1323,537 1252,537 1252,536 1108,536 1108,535 964,535 964,534 820,534 820,533 677,533 677,532 533,532 533,531 389,531 389,530 245,530 245,529 101,529 101,528 29,528 29,390 28,390 28,280 27,280 27,171 26,171 244,171 244,170 462,170 462,169 679,169 679,168 897,168 897,167 1115,167 1115,166 1331,166 1331,165"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="100,530 100,531 244,531 244,532 388,532 388,533 532,533 532,534 676,534 676,535 819,535 819,536 963,536 963,537 1107,537 1107,538 1251,538 1251,539 1323,539 1323,572 1322,572 1322,617 1321,617 1321,662 1320,662 1320,707 1319,707 1319,752 1318,752 1318,793 1104,793 1104,792 672,792 672,791 240,791 240,790 28,790 28,741 29,741 29,530"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="239,792 239,793 671,793 671,794 1103,794 1103,795 1318,795 1318,797 1317,797 1317,843 1316,843 1316,888 1315,888 1315,933 1314,933 1314,978 1313,978 1313,1022 1206,1022 1206,1023 991,1023 991,1024 775,1024 775,1025 560,1025 560,1026 345,1026 345,1027 129,1027 129,1028 27,1028 27,983 28,983 28,792"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords points="1312,1024 1312,1068 1311,1068 1311,1113 1310,1113 1310,1158 1210,1158 1210,1159 1110,1159 1110,1160 1010,1160 1010,1161 910,1161 910,1162 810,1162 810,1163 710,1163 710,1164 610,1164 610,1165 510,1165 510,1166 410,1166 410,1304 411,1304 411,1441 412,1441 412,1577 413,1577 413,1714 414,1714 414,1851 415,1851 415,1987 416,1987 416,1988 721,1988 721,1989 1025,1989 1025,1990 1329,1990 1328,1990 1328,2058 1327,2058 1327,2126 1326,2126 1326,2193 1326,2192 22,2192 23,2192 23,1950 24,1950 24,1708 25,1708 25,1466 26,1466 26,1225 27,1225 27,1030 130,1030 130,1029 346,1029 346,1028 561,1028 561,1027 776,1027 776,1026 992,1026 992,1025 1207,1025 1207,1024"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>
