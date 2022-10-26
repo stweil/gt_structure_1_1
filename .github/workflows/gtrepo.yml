@@ -37,13 +37,13 @@ jobs:
      
     # Installation and Directories
       
-    - name: install ocrd
-      run: |
-       git clone --depth 1 https://github.com/OCR-D/core
-       cd core
-       make install
-       cd ..
-       rm -rf core
+    #- name: install ocrd
+    #  run: |
+    #   git clone --depth 1 https://github.com/OCR-D/core
+    #   cd core
+    #   make install
+    #   cd ..
+    #   rm -rf core
        
           
     - name: Download and install saxon
@@ -124,9 +124,9 @@ jobs:
          
    # Bagit
 
-    - name: make bagit
-      run: sh scripts/data_structure.sh
-      shell: bash
+   # - name: make bagit
+   #   run: sh scripts/data_structure.sh
+   #   shell: bash
 
 
     - name: copy css styles and yml files to ghout
