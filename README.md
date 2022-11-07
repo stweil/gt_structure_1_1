@@ -46,13 +46,13 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
       </thead>
       <tbody>
          <tr>
-            <td>7397</td>
+            <td>7419</td>
             <td>0</td>
             <td>0</td>
-            <td>76</td>
+            <td>77</td>
             <td>10</td>
             <td>0</td>
-            <td>1164</td>
+            <td>1197</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
@@ -188,13 +188,13 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                </tr>
                <tr>
                   <td>benner_herrnhuterey02_1747</td>
-                  <td>127</td>
+                  <td>130</td>
                   <td/>
                   <td/>
                   <td>1</td>
                   <td/>
                   <td/>
-                  <td>5</td>
+                  <td>11</td>
                   <td/>
                   <td/>
                   <td/>
@@ -511,13 +511,13 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                </tr>
                <tr>
                   <td>bengel_abriss01_1751</td>
-                  <td>117</td>
+                  <td>119</td>
                   <td/>
                   <td/>
                   <td>2</td>
                   <td/>
                   <td/>
-                  <td>1</td>
+                  <td>22</td>
                   <td/>
                   <td/>
                   <td/>
@@ -891,13 +891,13 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                </tr>
                <tr>
                   <td>benner_herrnhuterey01_1746</td>
-                  <td>90</td>
+                  <td>107</td>
                   <td/>
                   <td/>
-                  <td>1</td>
+                  <td>2</td>
                   <td/>
                   <td/>
-                  <td>3</td>
+                  <td>9</td>
                   <td/>
                   <td/>
                   <td/>
