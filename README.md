@@ -46,13 +46,13 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
       </thead>
       <tbody>
          <tr>
-            <td>7357</td>
+            <td>7397</td>
             <td>0</td>
             <td>0</td>
-            <td>73</td>
+            <td>76</td>
             <td>10</td>
             <td>0</td>
-            <td>1140</td>
+            <td>1164</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
@@ -188,13 +188,13 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                </tr>
                <tr>
                   <td>benner_herrnhuterey02_1747</td>
-                  <td>122</td>
+                  <td>127</td>
                   <td/>
                   <td/>
                   <td>1</td>
                   <td/>
                   <td/>
-                  <td>1</td>
+                  <td>5</td>
                   <td/>
                   <td/>
                   <td/>
@@ -834,13 +834,13 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                </tr>
                <tr>
                   <td>benner_herrnhuterey03_1748</td>
-                  <td>124</td>
+                  <td>148</td>
                   <td/>
                   <td/>
-                  <td>1</td>
+                  <td>3</td>
                   <td/>
                   <td/>
-                  <td>6</td>
+                  <td>22</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1005,13 +1005,13 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                </tr>
                <tr>
                   <td>benner_herrnhuterey04_1748</td>
-                  <td>140</td>
+                  <td>151</td>
                   <td/>
                   <td/>
-                  <td>1</td>
+                  <td>2</td>
                   <td/>
                   <td/>
-                  <td>3</td>
+                  <td>7</td>
                   <td/>
                   <td/>
                   <td/>
