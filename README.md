@@ -46,13 +46,13 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
       </thead>
       <tbody>
          <tr>
-            <td>7419</td>
+            <td>7490</td>
             <td>0</td>
             <td>0</td>
-            <td>77</td>
+            <td>85</td>
             <td>10</td>
             <td>0</td>
-            <td>1197</td>
+            <td>1211</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
@@ -93,13 +93,13 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
             <tbody>
                <tr>
                   <td>beer_nero_1685</td>
-                  <td>200</td>
+                  <td>235</td>
                   <td/>
                   <td/>
+                  <td>1</td>
                   <td/>
                   <td/>
-                  <td/>
-                  <td>3</td>
+                  <td>2</td>
                   <td/>
                   <td/>
                   <td/>
@@ -967,13 +967,13 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                </tr>
                <tr>
                   <td>behrens_hercynia_1703</td>
-                  <td>133</td>
+                  <td>141</td>
                   <td/>
                   <td/>
+                  <td>6</td>
                   <td/>
                   <td/>
-                  <td/>
-                  <td>5</td>
+                  <td>21</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1119,13 +1119,13 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                </tr>
                <tr>
                   <td>beier_buchhandel_1690</td>
-                  <td>72</td>
+                  <td>100</td>
                   <td/>
                   <td/>
-                  <td>1</td>
+                  <td>2</td>
                   <td/>
                   <td/>
-                  <td>22</td>
+                  <td>21</td>
                   <td/>
                   <td/>
                   <td/>
