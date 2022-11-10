@@ -52,7 +52,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
             <td>94</td>
             <td>10</td>
             <td>0</td>
-            <td>1260</td>
+            <td>1262</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
@@ -327,7 +327,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td/>
                   <td/>
                   <td/>
-                  <td>2</td>
+                  <td>4</td>
                   <td/>
                   <td/>
                   <td/>
