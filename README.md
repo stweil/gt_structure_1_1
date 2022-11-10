@@ -46,13 +46,13 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
       </thead>
       <tbody>
          <tr>
-            <td>7614</td>
+            <td>7694</td>
             <td>0</td>
             <td>0</td>
-            <td>91</td>
+            <td>94</td>
             <td>10</td>
             <td>0</td>
-            <td>1230</td>
+            <td>1260</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
@@ -397,13 +397,13 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                </tr>
                <tr>
                   <td>becher_psychosophia_1683</td>
-                  <td>135</td>
+                  <td>140</td>
                   <td/>
                   <td/>
-                  <td>1</td>
+                  <td>4</td>
                   <td/>
                   <td/>
-                  <td>2</td>
+                  <td/>
                   <td/>
                   <td/>
                   <td/>
@@ -872,13 +872,13 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                </tr>
                <tr>
                   <td>beck_eisen04_1899</td>
-                  <td>69</td>
+                  <td>101</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td>1</td>
+                  <td>14</td>
                   <td/>
                   <td/>
                   <td/>
@@ -910,13 +910,13 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                </tr>
                <tr>
                   <td>beck_eisen03_1897</td>
-                  <td>76</td>
+                  <td>119</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
+                  <td>19</td>
                   <td/>
                   <td/>
                   <td/>
