@@ -46,13 +46,13 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
       </thead>
       <tbody>
          <tr>
-            <td>7490</td>
+            <td>7614</td>
             <td>0</td>
             <td>0</td>
-            <td>85</td>
+            <td>91</td>
             <td>10</td>
             <td>0</td>
-            <td>1211</td>
+            <td>1230</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
@@ -93,10 +93,10 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
             <tbody>
                <tr>
                   <td>beer_nero_1685</td>
-                  <td>235</td>
+                  <td>247</td>
                   <td/>
                   <td/>
-                  <td>1</td>
+                  <td>2</td>
                   <td/>
                   <td/>
                   <td>2</td>
@@ -150,10 +150,10 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                </tr>
                <tr>
                   <td>beer_antonius_1697</td>
-                  <td>181</td>
+                  <td>190</td>
                   <td/>
                   <td/>
-                  <td/>
+                  <td>3</td>
                   <td/>
                   <td/>
                   <td>5</td>
@@ -340,13 +340,13 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                </tr>
                <tr>
                   <td>beck_eisen05_1903</td>
-                  <td>70</td>
+                  <td>109</td>
                   <td/>
                   <td/>
                   <td/>
                   <td>2</td>
                   <td/>
-                  <td/>
+                  <td>18</td>
                   <td/>
                   <td/>
                   <td/>
@@ -416,10 +416,10 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                </tr>
                <tr>
                   <td>beer_lebensbeschreibung_1680</td>
-                  <td>81</td>
+                  <td>101</td>
                   <td/>
                   <td/>
-                  <td/>
+                  <td>2</td>
                   <td/>
                   <td/>
                   <td>2</td>
@@ -948,7 +948,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                </tr>
                <tr>
                   <td>becke_soldaten_1605</td>
-                  <td>188</td>
+                  <td>243</td>
                   <td/>
                   <td/>
                   <td>1</td>
@@ -967,13 +967,13 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                </tr>
                <tr>
                   <td>behrens_hercynia_1703</td>
-                  <td>141</td>
+                  <td>143</td>
                   <td/>
                   <td/>
                   <td>6</td>
                   <td/>
                   <td/>
-                  <td>21</td>
+                  <td>22</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1043,7 +1043,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                </tr>
                <tr>
                   <td>beckmann_technologie_1777</td>
-                  <td>141</td>
+                  <td>128</td>
                   <td/>
                   <td/>
                   <td>1</td>
