@@ -46,18 +46,18 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
       </thead>
       <tbody>
          <tr>
-            <td>7694</td>
+            <td>7713</td>
             <td>0</td>
             <td>0</td>
-            <td>94</td>
+            <td>98</td>
             <td>10</td>
             <td>0</td>
-            <td>1262</td>
+            <td>1279</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
-            <td>1</td>
+            <td>0</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
@@ -264,13 +264,13 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                </tr>
                <tr>
                   <td>bebel_frau_1879</td>
-                  <td>58</td>
+                  <td>100</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td>2</td>
+                  <td>3</td>
                   <td/>
                   <td/>
                   <td/>
@@ -321,13 +321,13 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                </tr>
                <tr>
                   <td>becher_narrheit_1682</td>
-                  <td>70</td>
+                  <td>74</td>
                   <td/>
                   <td/>
+                  <td>1</td>
                   <td/>
                   <td/>
-                  <td/>
-                  <td>4</td>
+                  <td>3</td>
                   <td/>
                   <td/>
                   <td/>
@@ -530,13 +530,13 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                </tr>
                <tr>
                   <td>bauller_lasterspiegel_1681</td>
-                  <td>161</td>
+                  <td>130</td>
                   <td/>
                   <td/>
                   <td>1</td>
                   <td/>
                   <td/>
-                  <td>5</td>
+                  <td>24</td>
                   <td/>
                   <td/>
                   <td/>
@@ -853,13 +853,13 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                </tr>
                <tr>
                   <td>becher_discurs_1668</td>
-                  <td>97</td>
-                  <td/>
-                  <td/>
-                  <td/>
+                  <td>101</td>
                   <td/>
                   <td/>
                   <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
                   <td/>
                   <td/>
                   <td/>
@@ -1027,7 +1027,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>52</td>
                   <td/>
                   <td/>
-                  <td/>
+                  <td>1</td>
                   <td/>
                   <td/>
                   <td>2</td>
@@ -1035,7 +1035,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td/>
                   <td/>
                   <td/>
-                  <td>1</td>
+                  <td/>
                   <td/>
                   <td/>
                   <td/>
