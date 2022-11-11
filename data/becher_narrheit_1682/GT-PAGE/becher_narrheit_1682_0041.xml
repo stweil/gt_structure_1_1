@@ -2,8 +2,8 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-becher_narrheit_1682_0041">
 	<Metadata>
 	<Creator>Deutsches Textarchiv</Creator>
-	<Created>2018-04-03T15:34:08</Created>
-	<LastChange>2022-11-10T17:12:07</LastChange></Metadata>
+	<Created>2018-04-03T14:34:08</Created>
+	<LastChange>2022-11-11T08:28:31</LastChange></Metadata>
 	<Page imageFilename="../jpg/becher_narrheit_1682_0041.jpg" imageWidth="1024" imageHeight="1840" type="content">
 	<ReadingOrder>
 	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
@@ -16,7 +16,7 @@
 	<TextEquiv>
 	<Unicode></Unicode></TextEquiv></TextRegion>
 	<TextRegion id="region_2" type="paragraph">
-	<Coords points="715,176 715,1277 66,1277 66,176"/>
+	<Coords points="715,176 715,1274 680,1274 680,1276 679,1276 679,1277 128,1277 128,1274 124,1274 124,1273 66,1273 66,176"/>
 	<TextEquiv>
 	<Unicode></Unicode></TextEquiv></TextRegion>
 	<TextRegion id="region_3" type="catch-word">
