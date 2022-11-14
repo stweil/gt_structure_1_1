@@ -46,13 +46,13 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
       </thead>
       <tbody>
          <tr>
-            <td>7895</td>
+            <td>7900</td>
             <td>0</td>
             <td>0</td>
-            <td>102</td>
+            <td>104</td>
             <td>10</td>
             <td>0</td>
-            <td>1294</td>
+            <td>1292</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
@@ -986,13 +986,13 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                </tr>
                <tr>
                   <td>barclay_argenis_1626</td>
-                  <td>89</td>
+                  <td>94</td>
                   <td/>
                   <td/>
+                  <td>2</td>
                   <td/>
                   <td/>
-                  <td/>
-                  <td>5</td>
+                  <td>3</td>
                   <td/>
                   <td/>
                   <td/>
