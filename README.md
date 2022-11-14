@@ -46,13 +46,13 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
       </thead>
       <tbody>
          <tr>
-            <td>7713</td>
+            <td>7884</td>
             <td>0</td>
             <td>0</td>
-            <td>98</td>
+            <td>102</td>
             <td>10</td>
             <td>0</td>
-            <td>1279</td>
+            <td>1287</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
@@ -359,7 +359,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                </tr>
                <tr>
                   <td>bauer_buehnenleben_1871</td>
-                  <td>46</td>
+                  <td>118</td>
                   <td/>
                   <td/>
                   <td/>
@@ -473,13 +473,13 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                </tr>
                <tr>
                   <td>bastian_voelkergedanke_1881</td>
-                  <td>45</td>
+                  <td>99</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
+                  <td>3</td>
                   <td/>
                   <td/>
                   <td/>
@@ -625,13 +625,13 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                </tr>
                <tr>
                   <td>basedow_weisheit_1768</td>
-                  <td>83</td>
+                  <td>109</td>
                   <td/>
                   <td/>
+                  <td>2</td>
                   <td/>
                   <td/>
-                  <td/>
-                  <td>4</td>
+                  <td>5</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1081,13 +1081,13 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                </tr>
                <tr>
                   <td>basedow_philanthropinum_1774</td>
-                  <td>82</td>
+                  <td>101</td>
                   <td/>
                   <td/>
+                  <td>2</td>
                   <td/>
                   <td/>
-                  <td/>
-                  <td>13</td>
+                  <td>17</td>
                   <td/>
                   <td/>
                   <td/>
