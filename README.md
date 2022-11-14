@@ -46,13 +46,13 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
       </thead>
       <tbody>
          <tr>
-            <td>7884</td>
+            <td>7895</td>
             <td>0</td>
             <td>0</td>
             <td>102</td>
             <td>10</td>
             <td>0</td>
-            <td>1287</td>
+            <td>1294</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
@@ -1081,13 +1081,13 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                </tr>
                <tr>
                   <td>basedow_philanthropinum_1774</td>
-                  <td>101</td>
+                  <td>112</td>
                   <td/>
                   <td/>
                   <td>2</td>
                   <td/>
                   <td/>
-                  <td>17</td>
+                  <td>24</td>
                   <td/>
                   <td/>
                   <td/>
