@@ -46,16 +46,16 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
       </thead>
       <tbody>
          <tr>
-            <td>7900</td>
+            <td>7953</td>
             <td>0</td>
             <td>0</td>
-            <td>104</td>
+            <td>102</td>
             <td>10</td>
             <td>0</td>
-            <td>1292</td>
+            <td>1297</td>
             <td>0</td>
             <td>0</td>
-            <td>0</td>
+            <td>6</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
@@ -435,16 +435,16 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                </tr>
                <tr>
                   <td>bach_versuch02_1762</td>
-                  <td>155</td>
+                  <td>160</td>
                   <td/>
                   <td/>
-                  <td>11</td>
+                  <td>6</td>
                   <td/>
                   <td/>
-                  <td>3</td>
+                  <td>6</td>
                   <td/>
                   <td/>
-                  <td/>
+                  <td>6</td>
                   <td/>
                   <td/>
                   <td/>
@@ -796,13 +796,13 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                </tr>
                <tr>
                   <td>bach_versuch01_1759</td>
-                  <td>233</td>
+                  <td>202</td>
+                  <td/>
+                  <td/>
+                  <td>6</td>
                   <td/>
                   <td/>
                   <td>3</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
                   <td/>
                   <td/>
                   <td/>
@@ -986,7 +986,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                </tr>
                <tr>
                   <td>barclay_argenis_1626</td>
-                  <td>94</td>
+                  <td>173</td>
                   <td/>
                   <td/>
                   <td>2</td>
