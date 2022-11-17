@@ -46,13 +46,13 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
       </thead>
       <tbody>
          <tr>
-            <td>7959</td>
+            <td>7954</td>
             <td>0</td>
             <td>0</td>
             <td>106</td>
             <td>10</td>
             <td>0</td>
-            <td>1311</td>
+            <td>1310</td>
             <td>0</td>
             <td>0</td>
             <td>6</td>
@@ -61,7 +61,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
             <td>0</td>
             <td>0</td>
             <td>0</td>
-            <td>1317</td>
+            <td>1316</td>
          </tr>
       </tbody>
    </table>
@@ -644,13 +644,13 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                </tr>
                <tr>
                   <td>arnold_ketzerhistorie02_1700</td>
-                  <td>228</td>
+                  <td>223</td>
                   <td/>
                   <td/>
                   <td>6</td>
                   <td/>
                   <td/>
-                  <td>21</td>
+                  <td>20</td>
                   <td/>
                   <td/>
                   <td/>
@@ -659,7 +659,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td/>
                   <td/>
                   <td/>
-                  <td>29</td>
+                  <td>28</td>
                </tr>
                <tr>
                   <td>arndt_christentum04_1610</td>
