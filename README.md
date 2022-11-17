@@ -46,13 +46,13 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
       </thead>
       <tbody>
          <tr>
-            <td>7953</td>
+            <td>7959</td>
             <td>0</td>
             <td>0</td>
-            <td>102</td>
+            <td>106</td>
             <td>10</td>
             <td>0</td>
-            <td>1297</td>
+            <td>1311</td>
             <td>0</td>
             <td>0</td>
             <td>6</td>
@@ -644,13 +644,13 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                </tr>
                <tr>
                   <td>arnold_ketzerhistorie02_1700</td>
-                  <td>222</td>
+                  <td>228</td>
                   <td/>
                   <td/>
-                  <td>2</td>
+                  <td>6</td>
                   <td/>
                   <td/>
-                  <td>7</td>
+                  <td>21</td>
                   <td/>
                   <td/>
                   <td/>
