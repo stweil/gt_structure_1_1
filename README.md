@@ -1199,6 +1199,5 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
    </div>
    <div id="extent">
       <h2>Extent</h2>
-      
    </div>
 </div>
