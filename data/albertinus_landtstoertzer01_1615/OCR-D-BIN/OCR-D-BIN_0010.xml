@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pc:PcGts xmlns:pc="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="OCR-D-BIN_0010">
+    <pc:Metadata>
+        <pc:Creator>Deutsches Textarchiv</pc:Creator>
+        <pc:Created>2018-04-03T15:33:26</pc:Created>
+        <pc:LastChange>2021-10-20T15:34:15</pc:LastChange>
+        <pc:MetadataItem type="processingStep" name="preprocessing/optimization/binarization" value="ocrd-cis-ocropy-binarize">
+            <pc:Labels externalModel="ocrd-tool" externalId="parameters">
+                <pc:Label value="page" type="level-of-operation"/>
+                <pc:Label value="ocropy" type="method"/>
+                <pc:Label value="0.5" type="threshold"/>
+                <pc:Label value="False" type="grayscale"/>
+                <pc:Label value="0.0" type="maxskew"/>
+                <pc:Label value="0" type="noise_maxsize"/>
+                <pc:Label value="0" type="dpi"/>
+            </pc:Labels>
+            <pc:Labels externalModel="ocrd-tool" externalId="version">
+                <pc:Label value="0.1.5" type="ocrd-cis-ocropy-binarize"/>
+                <pc:Label value="2.52.0" type="ocrd/core"/>
+            </pc:Labels>
+        </pc:MetadataItem>
+    </pc:Metadata>
+    <pc:Page imageFilename="jpg/albertinus_landtstoertzer01_1615_0019.jpg" imageWidth="1780" imageHeight="2660" orientation="0." type="content" primaryLanguage="German">
+        <pc:AlternativeImage filename="OCR-D-BIN/OCR-D-BIN_0010.IMG-BIN.png" comments=",cropped,binarized"/>
+        <pc:Border>
+            <pc:Coords points="190,2567 190,96 1664,96 1664,2567"/>
+        </pc:Border>
+        <pc:ReadingOrder>
+            <pc:OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+                <pc:RegionRefIndexed index="0" regionRef="region_1"/>
+                <pc:RegionRefIndexed index="1" regionRef="region_2"/>
+                <pc:RegionRefIndexed index="2" regionRef="region_3"/>
+                <pc:RegionRefIndexed index="3" regionRef="r1"/>
+                <pc:RegionRefIndexed index="4" regionRef="r3"/>
+            </pc:OrderedGroup>
+        </pc:ReadingOrder>
+        <pc:TextRegion id="region_1" type="header">
+            <pc:Coords points="685,222 940,225 972,285 951,300 705,303"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="region_2" type="paragraph">
+            <pc:Coords points="238,331 1407,338 1415,1231 1011,1224 1001,1307 938,1329 235,1320"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="region_3" custom="#closer" type="paragraph">
+            <pc:Coords points="222,1514 468,1520 487,1615 231,1609"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="r1" custom="#closer" type="paragraph">
+            <pc:Coords points="431,1807 787,1822 783,1905 438,1899"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="r3" custom="#closer" type="paragraph">
+            <pc:Coords points="683,2018 1407,2024 1401,2183 1105,2185 1094,2253 731,2253 679,2098"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+    </pc:Page>
+</pc:PcGts>

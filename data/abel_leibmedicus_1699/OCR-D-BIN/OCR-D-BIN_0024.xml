@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pc:PcGts xmlns:pc="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="OCR-D-BIN_0024">
+    <pc:Metadata>
+        <pc:Creator>Deutsches Textarchiv</pc:Creator>
+        <pc:Created>2018-04-03T14:33:18</pc:Created>
+        <pc:LastChange>2021-10-20T09:56:45</pc:LastChange>
+        <pc:MetadataItem type="processingStep" name="preprocessing/optimization/binarization" value="ocrd-cis-ocropy-binarize">
+            <pc:Labels externalModel="ocrd-tool" externalId="parameters">
+                <pc:Label value="page" type="level-of-operation"/>
+                <pc:Label value="ocropy" type="method"/>
+                <pc:Label value="0.5" type="threshold"/>
+                <pc:Label value="False" type="grayscale"/>
+                <pc:Label value="0.0" type="maxskew"/>
+                <pc:Label value="0" type="noise_maxsize"/>
+                <pc:Label value="0" type="dpi"/>
+            </pc:Labels>
+            <pc:Labels externalModel="ocrd-tool" externalId="version">
+                <pc:Label value="0.1.5" type="ocrd-cis-ocropy-binarize"/>
+                <pc:Label value="2.52.0" type="ocrd/core"/>
+            </pc:Labels>
+        </pc:MetadataItem>
+    </pc:Metadata>
+    <pc:Page imageFilename="jpg/abel_leibmedicus_1699_0346.jpg" imageWidth="1039" imageHeight="1700" orientation="0." type="table-of-contents" primaryLanguage="German">
+        <pc:AlternativeImage filename="OCR-D-BIN/OCR-D-BIN_0024.IMG-BIN.png" comments=",cropped,binarized"/>
+        <pc:Border>
+            <pc:Coords points="979,1633 979,37 89,37 89,1633"/>
+        </pc:Border>
+        <pc:ReadingOrder>
+            <pc:OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+                <pc:RegionRefIndexed index="0" regionRef="region_3"/>
+                <pc:RegionRefIndexed index="1" regionRef="region_4"/>
+                <pc:RegionRefIndexed index="2" regionRef="r15"/>
+                <pc:RegionRefIndexed index="3" regionRef="r0"/>
+                <pc:RegionRefIndexed index="4" regionRef="r16"/>
+                <pc:RegionRefIndexed index="5" regionRef="r2"/>
+                <pc:RegionRefIndexed index="6" regionRef="r4"/>
+                <pc:RegionRefIndexed index="7" regionRef="r17"/>
+                <pc:RegionRefIndexed index="8" regionRef="r6"/>
+                <pc:RegionRefIndexed index="9" regionRef="r18"/>
+                <pc:RegionRefIndexed index="10" regionRef="r19"/>
+                <pc:RegionRefIndexed index="11" regionRef="r8"/>
+                <pc:RegionRefIndexed index="12" regionRef="r10"/>
+                <pc:RegionRefIndexed index="13" regionRef="r12"/>
+                <pc:RegionRefIndexed index="14" regionRef="r14"/>
+                <pc:RegionRefIndexed index="15" regionRef="region_5"/>
+            </pc:OrderedGroup>
+        </pc:ReadingOrder>
+        <pc:TextRegion id="region_3" custom="#heading_level1" type="heading">
+            <pc:Coords points="208,340 937,340 937,515 208,515"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="region_4" custom="#heading_level2" type="heading">
+            <pc:Coords points="540,532 621,532 621,599 540,599"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="region_5" type="catch-word">
+            <pc:Coords points="766,1464 835,1461 917,1468 905,1516 759,1518"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="r0" type="TOC-entry">
+            <pc:Coords points="933,710 932,610 356,605 356,666 858,662 865,709"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="r2" type="TOC-entry">
+            <pc:Coords points="923,810 924,806 928,773 889,770 694,763 216,756 213,807"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="r4" type="TOC-entry">
+            <pc:Coords points="927,912 925,813 214,810 214,903 325,903 341,866 666,860 872,869 874,912"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="r6" type="TOC-entry">
+            <pc:Coords points="907,1018 922,1014 926,968 213,959 214,1000 397,1002 411,1015 425,1014 431,1006 578,1007 609,1011 615,1008 681,1012 700,1006 867,1009 865,1016"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="r8" type="TOC-entry">
+            <pc:Coords points="922,1171 925,1116 211,1107 213,1155 456,1161 469,1155 507,1158 515,1144 544,1146"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="r10" type="TOC-entry">
+            <pc:Coords points="914,1320 917,1298 921,1175 660,1162 641,1165 531,1166 492,1160 464,1162 214,1157 210,1260 257,1259 259,1305 756,1310 778,1272 870,1276 871,1318"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="r12" type="TOC-entry">
+            <pc:Coords points="798,1368 813,1357 817,1314 205,1306 205,1353 365,1356 398,1353 411,1359 434,1358"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="r14" type="TOC-entry">
+            <pc:Coords points="882,1459 912,1411 914,1360 816,1363 808,1373 774,1370 647,1366 205,1356 205,1461"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="r15" type="drop-capital">
+            <pc:Coords points="353,746 353,609 202,609 202,746"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="r16" type="TOC-entry">
+            <pc:Coords points="355,749 357,710 924,716 927,768"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="r17" type="TOC-entry">
+            <pc:Coords points="214,909 214,952 928,964 927,920 862,921 726,914"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="r18" type="TOC-entry">
+            <pc:Coords points="210,1051 212,1005 370,1009 408,1019 439,1014 580,1012 922,1022 922,1057 216,1058"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="r19" type="TOC-entry">
+            <pc:Coords points="925,1109 925,1060 209,1060 210,1098 473,1099 534,1085 836,1086 837,1104"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:GraphicRegion id="region_2" type="decoration">
+            <pc:Coords points="212,76 955,76 955,327 212,327"/>
+        </pc:GraphicRegion>
+    </pc:Page>
+</pc:PcGts>

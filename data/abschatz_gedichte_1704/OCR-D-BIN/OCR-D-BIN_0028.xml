@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pc:PcGts xmlns:pc="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="OCR-D-BIN_0028">
+    <pc:Metadata>
+        <pc:Creator>Deutsches Textarchiv</pc:Creator>
+        <pc:Created>2018-04-03T15:33:20</pc:Created>
+        <pc:LastChange>2021-10-19T15:20:27</pc:LastChange>
+        <pc:MetadataItem type="processingStep" name="preprocessing/optimization/binarization" value="ocrd-cis-ocropy-binarize">
+            <pc:Labels externalModel="ocrd-tool" externalId="parameters">
+                <pc:Label value="page" type="level-of-operation"/>
+                <pc:Label value="ocropy" type="method"/>
+                <pc:Label value="0.5" type="threshold"/>
+                <pc:Label value="False" type="grayscale"/>
+                <pc:Label value="0.0" type="maxskew"/>
+                <pc:Label value="0" type="noise_maxsize"/>
+                <pc:Label value="0" type="dpi"/>
+            </pc:Labels>
+            <pc:Labels externalModel="ocrd-tool" externalId="version">
+                <pc:Label value="0.1.5" type="ocrd-cis-ocropy-binarize"/>
+                <pc:Label value="2.52.0" type="ocrd/core"/>
+            </pc:Labels>
+        </pc:MetadataItem>
+    </pc:Metadata>
+    <pc:Page imageFilename="jpg/abschatz_gedichte_1704_0690.jpg" imageWidth="1024" imageHeight="1996" orientation="0." type="content">
+        <pc:AlternativeImage filename="OCR-D-BIN/OCR-D-BIN_0028.IMG-BIN.png" comments=",cropped,binarized"/>
+        <pc:Border>
+            <pc:Coords points="134,1592 134,80 946,80 946,1592"/>
+        </pc:Border>
+        <pc:ReadingOrder>
+            <pc:OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+                <pc:RegionRefIndexed index="0" regionRef="r0"/>
+                <pc:RegionRefIndexed index="1" regionRef="r1"/>
+                <pc:RegionRefIndexed index="2" regionRef="region_1"/>
+                <pc:RegionRefIndexed index="3" regionRef="region_3"/>
+                <pc:RegionRefIndexed index="4" regionRef="region_4"/>
+                <pc:RegionRefIndexed index="5" regionRef="region_5"/>
+                <pc:RegionRefIndexed index="6" regionRef="region_6"/>
+                <pc:RegionRefIndexed index="7" regionRef="region_7"/>
+                <pc:RegionRefIndexed index="8" regionRef="r2"/>
+            </pc:OrderedGroup>
+        </pc:ReadingOrder>
+        <pc:TextRegion id="region_1" custom="#poem_lg" type="paragraph">
+            <pc:Coords points="269,210 772,202 772,319 259,321"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="region_3" custom="#poem_lg" type="paragraph">
+            <pc:Coords points="257,332 786,332 786,559 257,559"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="region_4" custom="#poem_lg" type="paragraph">
+            <pc:Coords points="265,570 769,570 769,789 265,789"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="region_5" custom="#poem_lg" type="paragraph">
+            <pc:Coords points="275,810 811,810 811,1029 275,1029"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="region_6" custom="#poem_lg" type="paragraph">
+            <pc:Coords points="282,1045 821,1045 821,1269 282,1269"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="region_7" custom="#poem_lg" type="paragraph">
+            <pc:Coords points="287,1282 851,1282 851,1506 287,1506"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="r0" type="header">
+            <pc:Coords points="731,170 731,126 370,126 370,170"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="r1" type="page-number">
+            <pc:Coords points="224,187 224,141 158,141 158,187"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="r2" type="catch-word">
+            <pc:Coords points="943,1519 943,1468 892,1468 892,1519"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:SeparatorRegion id="r3">
+            <pc:Coords points="943,179 942,195 696,194 357,200 278,206 164,217 164,196 499,184 517,185 529,185 681,181"/>
+        </pc:SeparatorRegion>
+    </pc:Page>
+</pc:PcGts>

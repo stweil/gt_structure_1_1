@@ -4,7 +4,7 @@
 	<Creator>Deutsches Textarchiv</Creator>
 	<Created>2018-03-22T08:08:20</Created>
 	<LastChange>2022-11-11T10:13:54</LastChange></Metadata>
-	<Page imageFilename="bebel_frau_1879_0186.jpg" imageWidth="1065" imageHeight="1633" type="content">
+	<Page imageFilename="jpg/bebel_frau_1879_0186.jpg" imageWidth="1065" imageHeight="1633" type="content">
 	<ReadingOrder>
 	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
 	<RegionRefIndexed regionRef="r1" index="0"/>
@@ -15,12 +15,12 @@
 	<TextRegion id="region_2" custom="#back_paragraph" type="paragraph">
 	<Coords points="819,1485 819,1487 823,1487 823,1488 824,1488 824,1494 832,1494 832,1498 831,1498 831,1499 830,1499 830,1500 829,1500 829,1501 815,1501 815,1502 791,1502 791,1504 337,1504 337,1503 325,1503 325,1502 321,1502 321,1494 320,1494 320,1489 321,1489 321,1487 322,1487 322,1486 341,1486 341,1485"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv></TextRegion>
+	<Unicode/></TextEquiv></TextRegion>
 	<TextRegion id="r0" type="paragraph">
 	<Coords points="1002,93 1002,274 154,274 154,93"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv></TextRegion>
+	<Unicode/></TextEquiv></TextRegion>
 	<TextRegion id="r1" type="page-number">
 	<Coords points="657,41 657,59 487,59 487,41"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

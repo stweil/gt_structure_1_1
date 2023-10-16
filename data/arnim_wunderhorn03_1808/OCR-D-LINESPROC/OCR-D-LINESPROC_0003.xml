@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pc:PcGts xmlns:pc="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="OCR-D-LINESPROC_0003">
+    <pc:Metadata>
+        <pc:Creator>Deutsches Textarchiv</pc:Creator>
+        <pc:Created>2018-03-22T08:07:48</pc:Created>
+        <pc:LastChange>2022-01-07T10:30:47</pc:LastChange>
+        <pc:MetadataItem type="processingStep" name="preprocessing/optimization/binarization" value="ocrd-cis-ocropy-binarize">
+            <pc:Labels externalModel="ocrd-tool" externalId="parameters">
+                <pc:Label value="page" type="level-of-operation"/>
+                <pc:Label value="ocropy" type="method"/>
+                <pc:Label value="0.5" type="threshold"/>
+                <pc:Label value="False" type="grayscale"/>
+                <pc:Label value="0.0" type="maxskew"/>
+                <pc:Label value="0" type="noise_maxsize"/>
+                <pc:Label value="0" type="dpi"/>
+            </pc:Labels>
+            <pc:Labels externalModel="ocrd-tool" externalId="version">
+                <pc:Label value="0.1.5" type="ocrd-cis-ocropy-binarize"/>
+                <pc:Label value="2.52.0" type="ocrd/core"/>
+            </pc:Labels>
+        </pc:MetadataItem>
+        <pc:MetadataItem type="processingStep" name="layout/segmentation/region" value="ocrd-cis-ocropy-segment">
+            <pc:Labels externalModel="ocrd-tool" externalId="parameters">
+                <pc:Label value="region" type="level-of-operation"/>
+                <pc:Label value="0" type="dpi"/>
+                <pc:Label value="20" type="maxcolseps"/>
+                <pc:Label value="20" type="maxseps"/>
+                <pc:Label value="10" type="maximages"/>
+                <pc:Label value="4" type="csminheight"/>
+                <pc:Label value="10" type="hlminwidth"/>
+                <pc:Label value="0.01" type="gap_height"/>
+                <pc:Label value="1.5" type="gap_width"/>
+                <pc:Label value="True" type="overwrite_order"/>
+                <pc:Label value="True" type="overwrite_separators"/>
+                <pc:Label value="True" type="overwrite_regions"/>
+                <pc:Label value="True" type="overwrite_lines"/>
+                <pc:Label value="2.4" type="spread"/>
+            </pc:Labels>
+            <pc:Labels externalModel="ocrd-tool" externalId="version">
+                <pc:Label value="0.1.5" type="ocrd-cis-ocropy-segment"/>
+                <pc:Label value="2.52.0" type="ocrd/core"/>
+            </pc:Labels>
+        </pc:MetadataItem>
+    </pc:Metadata>
+    <pc:Page imageFilename="jpg/arnim_wunderhorn03_1808_0269.jpg" imageWidth="1222" imageHeight="2290" orientation="0." type="content" primaryLanguage="German">
+        <pc:AlternativeImage filename="OCR-D-BIN/OCR-D-BIN_0003.IMG-BIN.png" comments=",cropped,binarized"/>
+        <pc:Border>
+            <pc:Coords points="8,20 8,2280 1221,2280 1221,20"/>
+        </pc:Border>
+        <pc:ReadingOrder>
+            <pc:OrderedGroup id="ro357564684568544579089">
+                <pc:RegionRefIndexed index="0" regionRef="r0"/>
+            </pc:OrderedGroup>
+        </pc:ReadingOrder>
+        <pc:TextRegion id="r0" type="paragraph">
+            <pc:Coords points="98,791 98,792 178,792 178,793 180,793 180,794 182,794 182,795 183,795 183,802 328,802 328,796 329,796 329,795 330,795 330,792 331,792 331,791 452,791 452,801 569,801 569,800 570,800 570,798 571,798 571,796 574,796 574,794 575,794 575,793 576,793 576,791 1002,791 1002,849 808,849 808,848 802,848 802,846 792,846 792,845 582,845 582,846 578,846 578,845 474,845 474,847 467,847 467,848 458,848 458,849 450,849 450,845 421,845 421,844 415,844 415,843 414,843 414,842 312,842 312,843 311,843 311,844 306,844 306,843 179,843 179,844 101,844 101,845 100,845 100,847 68,847 68,846 58,846 58,845 57,845 57,829 59,829 59,828 60,828 60,827 62,827 62,817 63,817 63,804 64,804 64,802 65,802 65,798 68,798 68,797 69,797 69,795 70,795 70,794 73,794 73,793 74,793 74,792 75,792 75,791"/>
+            <pc:TextLine id="r0_line0001">
+                <pc:Coords points="70,794 70,795 69,795 69,796 69,797 68,797 68,798 67,798 65,798 65,801 65,802 64,802 64,803 64,804 63,804 63,816 63,817 62,817 62,826 62,827 61,827 60,827 60,828 59,828 59,829 58,829 57,829 57,845 58,845 58,846 67,846 68,846 68,847 100,847 100,846 100,845 101,845 101,844 102,844 179,844 179,843 180,843 305,843 306,843 306,844 311,844 311,843 312,843 312,842 313,842 413,842 414,842 414,843 415,843 415,844 420,844 421,844 421,845 449,845 450,845 450,846 450,847 467,847 474,847 474,846 474,845 475,845 577,845 578,845 578,846 582,846 582,845 583,845 791,845 792,845 792,846 801,846 802,846 802,847 802,848 808,848 821,848 823,846 865,846 866,847 866,848 904,848 905,847 909,847 910,848 1001,848 1001,792 995,792 994,793 993,793 992,794 991,794 990,793 990,792 989,791 955,791 955,793 954,794 940,794 939,793 938,793 937,792 930,792 929,791 913,791 912,792 911,792 909,794 904,794 901,791 881,791 880,792 879,792 877,794 869,794 868,793 868,791 846,791 846,792 845,793 824,793 823,792 822,792 821,791 786,791 786,792 785,793 757,793 756,794 746,794 745,793 745,791 718,791 718,795 717,796 686,796 685,795 671,795 670,794 670,791 641,791 640,792 636,792 635,793 626,793 625,792 625,791 605,791 604,792 600,792 599,791 576,791 576,792 576,793 575,793 575,794 574,794 574,795 574,796 573,796 571,796 571,797 571,798 570,798 570,799 570,800 569,800 569,801 568,801 453,801 452,801 452,800 452,791 437,791 436,792 435,791 414,791 414,794 413,795 405,795 404,794 392,794 391,793 379,793 378,792 378,791 331,791 331,792 330,792 330,794 330,795 329,795 329,796 328,796 328,801 328,802 327,802 184,802 183,802 183,801 183,795 182,795 182,794 181,794 180,794 180,793 179,793 178,793 178,792 99,792 98,792 98,791 75,791 75,792 74,792 74,793 73,793 73,794 72,794"/>
+            </pc:TextLine>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:SeparatorRegion id="r1">
+            <pc:Coords points="630,1054 630,1067 433,1067 433,1066 431,1066 431,1057 433,1057 433,1056 434,1056 434,1054"/>
+        </pc:SeparatorRegion>
+    </pc:Page>
+</pc:PcGts>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pc:PcGts xmlns:pc="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="OCR-D-BIN_0002">
+    <pc:Metadata>
+        <pc:Creator>Deutsches Textarchiv</pc:Creator>
+        <pc:Created>2018-04-03T15:33:20</pc:Created>
+        <pc:LastChange>2021-10-19T13:01:19</pc:LastChange>
+        <pc:MetadataItem type="processingStep" name="preprocessing/optimization/binarization" value="ocrd-cis-ocropy-binarize">
+            <pc:Labels externalModel="ocrd-tool" externalId="parameters">
+                <pc:Label value="page" type="level-of-operation"/>
+                <pc:Label value="ocropy" type="method"/>
+                <pc:Label value="0.5" type="threshold"/>
+                <pc:Label value="False" type="grayscale"/>
+                <pc:Label value="0.0" type="maxskew"/>
+                <pc:Label value="0" type="noise_maxsize"/>
+                <pc:Label value="0" type="dpi"/>
+            </pc:Labels>
+            <pc:Labels externalModel="ocrd-tool" externalId="version">
+                <pc:Label value="0.1.5" type="ocrd-cis-ocropy-binarize"/>
+                <pc:Label value="2.52.0" type="ocrd/core"/>
+            </pc:Labels>
+        </pc:MetadataItem>
+    </pc:Metadata>
+    <pc:Page imageFilename="jpg/abschatz_gedichte_1704_0007.jpg" imageWidth="1024" imageHeight="1996" orientation="0." type="content">
+        <pc:AlternativeImage filename="OCR-D-BIN/OCR-D-BIN_0002.IMG-BIN.png" comments=",cropped,binarized"/>
+        <pc:Border>
+            <pc:Coords points="70,1597 70,82 934,82 934,1597"/>
+        </pc:Border>
+        <pc:ReadingOrder>
+            <pc:OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+                <pc:RegionRefIndexed index="0" regionRef="region_2"/>
+                <pc:RegionRefIndexed index="1" regionRef="r0"/>
+                <pc:RegionRefIndexed index="2" regionRef="region_3"/>
+                <pc:RegionRefIndexed index="3" regionRef="region_4"/>
+                <pc:RegionRefIndexed index="4" regionRef="region_5"/>
+            </pc:OrderedGroup>
+        </pc:ReadingOrder>
+        <pc:TextRegion id="region_2" custom="#salute" type="heading">
+            <pc:Coords points="177,405 731,405 731,509 177,509"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="region_3" type="paragraph">
+            <pc:Coords points="377,544 871,530 871,1517 758,1517 747,1524 615,1508 541,1514 461,1506 82,1517 84,867 85,861 85,838 134,837 185,837 211,839 257,838 306,838 342,836 395,843 400,628 380,610"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="region_4" type="signature-mark">
+            <pc:Coords points="472,1517 591,1517 591,1576 472,1576"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="region_5" type="catch-word">
+            <pc:Coords points="750,1526 809,1530 860,1532 861,1566 858,1575 850,1579 750,1574"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="r0" type="drop-capital">
+            <pc:Coords points="370,834 376,542 84,542 85,835"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:GraphicRegion id="region_1" type="decoration">
+            <pc:Coords points="105,115 874,115 874,394 105,394"/>
+        </pc:GraphicRegion>
+    </pc:Page>
+</pc:PcGts>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pc:PcGts xmlns:pc="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="OCR-D-BIN_0016">
+    <pc:Metadata>
+        <pc:Creator>Deutsches Textarchiv</pc:Creator>
+        <pc:Created>2018-04-03T14:33:18</pc:Created>
+        <pc:LastChange>2021-10-20T09:56:40</pc:LastChange>
+        <pc:MetadataItem type="processingStep" name="preprocessing/optimization/binarization" value="ocrd-cis-ocropy-binarize">
+            <pc:Labels externalModel="ocrd-tool" externalId="parameters">
+                <pc:Label value="page" type="level-of-operation"/>
+                <pc:Label value="ocropy" type="method"/>
+                <pc:Label value="0.5" type="threshold"/>
+                <pc:Label value="False" type="grayscale"/>
+                <pc:Label value="0.0" type="maxskew"/>
+                <pc:Label value="0" type="noise_maxsize"/>
+                <pc:Label value="0" type="dpi"/>
+            </pc:Labels>
+            <pc:Labels externalModel="ocrd-tool" externalId="version">
+                <pc:Label value="0.1.5" type="ocrd-cis-ocropy-binarize"/>
+                <pc:Label value="2.52.0" type="ocrd/core"/>
+            </pc:Labels>
+        </pc:MetadataItem>
+    </pc:Metadata>
+    <pc:Page imageFilename="jpg/abel_leibmedicus_1699_0030.jpg" imageWidth="1039" imageHeight="1700" orientation="0." type="content" primaryLanguage="German">
+        <pc:AlternativeImage filename="OCR-D-BIN/OCR-D-BIN_0016.IMG-BIN.png" comments=",cropped,binarized"/>
+        <pc:Border>
+            <pc:Coords points="981,1643 981,56 102,56 102,1643"/>
+        </pc:Border>
+        <pc:ReadingOrder>
+            <pc:OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+                <pc:RegionRefIndexed index="0" regionRef="region_1"/>
+                <pc:RegionRefIndexed index="1" regionRef="region_2"/>
+                <pc:RegionRefIndexed index="2" regionRef="region_3"/>
+                <pc:RegionRefIndexed index="3" regionRef="region_4"/>
+                <pc:RegionRefIndexed index="4" regionRef="region_5"/>
+                <pc:RegionRefIndexed index="5" regionRef="r0"/>
+            </pc:OrderedGroup>
+        </pc:ReadingOrder>
+        <pc:TextRegion id="region_1" type="header">
+            <pc:Coords points="316,84 855,83 852,128 319,139"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="region_2" type="page-number">
+            <pc:Coords points="206,84 254,84 250,136 248,144 214,145"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="region_3" type="paragraph">
+            <pc:Coords points="213,167 414,155 935,148 975,1261 230,1262"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="region_4" type="catch-word">
+            <pc:Coords points="854,1262 974,1262 974,1294 854,1294"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="region_5" type="footnote">
+            <pc:Coords points="280,1308 965,1300 947,1346 931,1349 544,1356 534,1404 444,1404 440,1414 419,1412 420,1404 285,1404"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="r0" type="footnote">
+            <pc:Coords points="942,1515 950,1398 580,1409 499,1415 360,1415 289,1414 289,1518"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:SeparatorRegion id="r1">
+            <pc:Coords points="931,130 931,144 743,148 729,148 474,151 426,151 223,161 223,151 542,140 632,140 749,141 777,141 867,133"/>
+        </pc:SeparatorRegion>
+    </pc:Page>
+</pc:PcGts>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pc:PcGts xmlns:pc="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="OCR-D-BIN_0016">
+    <pc:Metadata>
+        <pc:Creator>Deutsches Textarchiv</pc:Creator>
+        <pc:Created>2018-03-22T08:07:48</pc:Created>
+        <pc:LastChange>2022-01-07T11:08:17</pc:LastChange>
+        <pc:MetadataItem type="processingStep" name="preprocessing/optimization/binarization" value="ocrd-cis-ocropy-binarize">
+            <pc:Labels externalModel="ocrd-tool" externalId="parameters">
+                <pc:Label value="page" type="level-of-operation"/>
+                <pc:Label value="ocropy" type="method"/>
+                <pc:Label value="0.5" type="threshold"/>
+                <pc:Label value="False" type="grayscale"/>
+                <pc:Label value="0.0" type="maxskew"/>
+                <pc:Label value="0" type="noise_maxsize"/>
+                <pc:Label value="0" type="dpi"/>
+            </pc:Labels>
+            <pc:Labels externalModel="ocrd-tool" externalId="version">
+                <pc:Label value="0.1.5" type="ocrd-cis-ocropy-binarize"/>
+                <pc:Label value="2.52.0" type="ocrd/core"/>
+            </pc:Labels>
+        </pc:MetadataItem>
+    </pc:Metadata>
+    <pc:Page imageFilename="jpg/arnim_wunderhorn03_1808_0371.jpg" imageWidth="1274" imageHeight="2252" orientation="0." type="content" primaryLanguage="German">
+        <pc:AlternativeImage filename="OCR-D-BIN/OCR-D-BIN_0016.IMG-BIN.png" comments=",cropped,binarized"/>
+        <pc:Border>
+            <pc:Coords points="1272,0 1272,2251 0,2251 0,0"/>
+        </pc:Border>
+        <pc:ReadingOrder>
+            <pc:OrderedGroup id="ro357564684568544579089">
+                <pc:RegionRefIndexed index="0" regionRef="r0"/>
+                <pc:RegionRefIndexed index="1" regionRef="r1"/>
+                <pc:RegionRefIndexed index="2" regionRef="r2"/>
+            </pc:OrderedGroup>
+        </pc:ReadingOrder>
+        <pc:TextRegion id="r0" type="page-number">
+            <pc:Coords points="728,81 728,126 354,126 354,81"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="r1" type="heading">
+            <pc:Coords points="707,188 707,236 365,236 365,188"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="r2" type="paragraph">
+            <pc:Coords points="756,304 756,390 755,390 755,476 754,476 754,562 753,562 753,649 750,649 750,650 718,650 718,651 684,651 684,652 650,652 650,653 616,653 616,654 582,654 582,655 548,655 548,656 505,656 505,657 480,657 480,658 446,658 446,659 412,659 412,660 378,660 378,661 344,661 344,662 310,662 310,663 276,663 276,664 242,664 242,665 208,665 208,666 174,666 174,667 159,667 159,665 155,665 155,664 142,664 142,663 140,663 140,304"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:GraphicRegion id="r4" type="handwritten-annotation">
+            <pc:Coords points="127,33 127,135 46,135 46,132 45,132 45,128 43,128 43,125 39,125 39,122 22,122 22,33"/>
+        </pc:GraphicRegion>
+        <pc:SeparatorRegion id="r3">
+            <pc:Coords points="748,929 748,934 755,934 755,936 756,936 756,947 758,947 758,956 391,956 391,953 393,953 393,947 396,947 396,946 397,946 397,945 407,945 407,944 421,944 421,943 422,943 422,942 430,942 430,941 431,941 431,940 433,940 433,939 435,939 435,929"/>
+        </pc:SeparatorRegion>
+    </pc:Page>
+</pc:PcGts>

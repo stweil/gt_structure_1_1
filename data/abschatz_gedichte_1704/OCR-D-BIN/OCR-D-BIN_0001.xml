@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pc:PcGts xmlns:pc="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="OCR-D-BIN_0001">
+    <pc:Metadata>
+        <pc:Creator>Deutsches Textarchiv</pc:Creator>
+        <pc:Created>2018-04-03T12:33:20</pc:Created>
+        <pc:LastChange>2021-10-20T10:21:56</pc:LastChange>
+        <pc:MetadataItem type="processingStep" name="preprocessing/optimization/binarization" value="ocrd-cis-ocropy-binarize">
+            <pc:Labels externalModel="ocrd-tool" externalId="parameters">
+                <pc:Label value="page" type="level-of-operation"/>
+                <pc:Label value="ocropy" type="method"/>
+                <pc:Label value="0.5" type="threshold"/>
+                <pc:Label value="False" type="grayscale"/>
+                <pc:Label value="0.0" type="maxskew"/>
+                <pc:Label value="0" type="noise_maxsize"/>
+                <pc:Label value="0" type="dpi"/>
+            </pc:Labels>
+            <pc:Labels externalModel="ocrd-tool" externalId="version">
+                <pc:Label value="0.1.5" type="ocrd-cis-ocropy-binarize"/>
+                <pc:Label value="2.52.0" type="ocrd/core"/>
+            </pc:Labels>
+        </pc:MetadataItem>
+    </pc:Metadata>
+    <pc:Page imageFilename="jpg/abschatz_gedichte_1704_0005.jpg" imageWidth="1024" imageHeight="1996" orientation="0." type="title">
+        <pc:AlternativeImage filename="OCR-D-BIN/OCR-D-BIN_0001.IMG-BIN.png" comments=",cropped,binarized"/>
+        <pc:Border>
+            <pc:Coords points="53,1621 53,70 929,70 929,1621"/>
+        </pc:Border>
+        <pc:ReadingOrder>
+            <pc:OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+                <pc:RegionRefIndexed index="0" regionRef="r0"/>
+                <pc:RegionRefIndexed index="1" regionRef="r1"/>
+                <pc:RegionRefIndexed index="2" regionRef="r3"/>
+                <pc:RegionRefIndexed index="3" regionRef="r5"/>
+                <pc:RegionRefIndexed index="4" regionRef="r4"/>
+            </pc:OrderedGroup>
+        </pc:ReadingOrder>
+        <pc:TextRegion id="r0" type="paragraph">
+            <pc:Coords points="887,395 887,88 80,88 80,395 556,406 589,405 661,404 677,404"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="r1" type="paragraph">
+            <pc:Coords points="884,556 884,412 839,405 654,408 76,418 77,556"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="r3" type="paragraph">
+            <pc:Coords points="73,1005 76,567 539,563 573,558 587,558 890,566 904,667 902,793 747,1004 591,1029 560,1025 508,1003"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="r4" type="paragraph">
+            <pc:Coords points="900,1615 900,1465 76,1465 78,1607"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="r5" type="paragraph">
+            <pc:Coords points="70,1442 73,1386 327,1394 390,1400 473,1399 601,1398 604,1394 624,1391 647,1387 902,1380 901,1431 849,1435 327,1448"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:GraphicRegion id="r2" type="decoration">
+            <pc:Coords points="304,1111 333,1067 367,1052 421,1041 461,1012 461,1011 483,1011 483,1010 502,1010 502,1012 651,1065 710,1169 728,1245 712,1311 663,1368 587,1394 519,1396 505,1390 489,1384 480,1387 466,1394 449,1397 372,1396 309,1365 244,1294 240,1225 252,1176 295,1122"/>
+        </pc:GraphicRegion>
+    </pc:Page>
+</pc:PcGts>

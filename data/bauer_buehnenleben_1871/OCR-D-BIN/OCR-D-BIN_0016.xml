@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pc:PcGts xmlns:pc="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="OCR-D-BIN_0016">
+    <pc:Metadata>
+        <pc:Creator>Deutsches Textarchiv</pc:Creator>
+        <pc:Created>2018-03-22T10:08:02</pc:Created>
+        <pc:LastChange>2022-11-14T12:02:22</pc:LastChange>
+        <pc:MetadataItem type="processingStep" name="preprocessing/optimization/binarization" value="ocrd-cis-ocropy-binarize">
+            <pc:Labels externalModel="ocrd-tool" externalId="parameters">
+                <pc:Label value="page" type="level-of-operation"/>
+                <pc:Label value="ocropy" type="method"/>
+                <pc:Label value="0.5" type="threshold"/>
+                <pc:Label value="False" type="grayscale"/>
+                <pc:Label value="0.0" type="maxskew"/>
+                <pc:Label value="0" type="noise_maxsize"/>
+                <pc:Label value="0" type="dpi"/>
+            </pc:Labels>
+            <pc:Labels externalModel="ocrd-tool" externalId="version">
+                <pc:Label value="0.1.5" type="ocrd-cis-ocropy-binarize"/>
+                <pc:Label value="2.52.0" type="ocrd/core"/>
+            </pc:Labels>
+        </pc:MetadataItem>
+    </pc:Metadata>
+    <pc:Page imageFilename="jpg/bauer_buehnenleben_1871_0292.jpg" imageWidth="1752" imageHeight="2539" orientation="0." type="content">
+        <pc:AlternativeImage filename="OCR-D-BIN/OCR-D-BIN_0016.IMG-BIN.png" comments=",binarized"/>
+        <pc:ReadingOrder>
+            <pc:OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+                <pc:RegionRefIndexed index="0" regionRef="region_1"/>
+                <pc:RegionRefIndexed index="1" regionRef="region_2"/>
+                <pc:RegionRefIndexed index="2" regionRef="r1"/>
+            </pc:OrderedGroup>
+        </pc:ReadingOrder>
+        <pc:TextRegion id="region_1" type="page-number">
+            <pc:Coords points="1224,403 1224,423 1228,423 1228,427 1225,427 1225,428 1224,428 1224,435 1165,435 1165,415 1164,415 1164,408 1165,408 1165,407 1174,407 1174,403"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="region_2" type="paragraph">
+            <pc:Coords points="1621,494 1621,498 1669,498 1669,503 1674,503 1674,512 1684,512 1684,674 1686,674 1686,795 1687,795 1687,1152 1688,1152 1688,1204 1689,1204 1689,1494 1690,1494 1690,1562 1687,1562 1687,1576 1686,1576 1686,1577 1673,1577 1673,1578 1664,1578 1664,1635 1663,1635 1663,1636 1648,1636 1648,1637 1365,1637 1365,1638 1272,1638 1272,1641 1267,1641 1267,1636 1026,1636 1026,1641 1022,1641 1022,1639 844,1639 844,1633 711,1633 711,1632 710,1632 710,1631 709,1631 709,1630 708,1630 708,1624 707,1624 707,1453 706,1453 706,1206 705,1206 705,1201 706,1201 706,908 705,908 705,741 704,741 704,740 703,740 703,503 788,503 788,501 800,501 800,496 801,496 801,495 835,495 835,496 837,496 837,498 844,498 844,502 1053,502 1053,497 1054,497 1054,496 1055,496 1055,495 1059,495 1059,496 1258,496 1258,495 1259,495 1259,494"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+        <pc:TextRegion id="r1" type="paragraph">
+            <pc:Coords points="899,1657 899,1658 901,1658 901,1659 903,1659 903,1660 1019,1660 1019,1661 1401,1661 1401,1662 1602,1662 1602,1661 1608,1661 1608,1662 1634,1662 1634,1671 1675,1671 1675,1673 1676,1673 1676,1687 1687,1687 1687,1727 1690,1727 1690,1902 1691,1902 1691,2022 1692,2022 1692,2086 1688,2086 1688,2100 1687,2100 1687,2101 1674,2101 1674,2102 1651,2102 1651,2103 1366,2103 1366,2109 1362,2109 1362,2100 1328,2100 1328,2099 1327,2099 1327,2098 1094,2098 1094,2103 1082,2103 1082,2105 844,2105 844,2107 843,2107 843,2108 786,2108 786,2109 785,2109 785,2110 781,2110 781,2109 780,2109 780,2102 730,2102 730,2101 713,2101 713,2100 711,2100 711,2099 709,2099 709,2077 708,2077 708,2039 707,2039 707,2034 708,2034 708,1849 709,1849 709,1793 710,1793 710,1749 716,1749 716,1715 793,1715 793,1690 797,1690 797,1658 800,1658 800,1657"/>
+            <pc:TextEquiv>
+                <pc:Unicode></pc:Unicode>
+            </pc:TextEquiv>
+        </pc:TextRegion>
+    </pc:Page>
+</pc:PcGts>
